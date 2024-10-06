@@ -1,0 +1,12 @@
+Section,Description,Value/Amount(INR)
+Personal Information,Name,John Doe
+Personal Information,PAN,ABCDE1234F
+Personal Information,Financial Year,2024-25
+Income,Salary Income,1000000
+Income,Other Income,120000
+Income,Total Income,1120000
+Deductions,Section 80C (Investments),100000
+Deductions,Section 80D (Health Insurance),100000
+Deductions,Section 80E (Education Loan),80000
+Deductions,Total Deductions,280000
+Taxable Income,Taxable Income,7200000
