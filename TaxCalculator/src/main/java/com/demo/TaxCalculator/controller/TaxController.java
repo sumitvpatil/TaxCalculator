@@ -15,6 +15,7 @@ import java.nio.charset.StandardCharsets;
 
 @RestController
 @RequestMapping("api")
+@CrossOrigin(origins = "*")
 public class TaxController {
 
     @Autowired
